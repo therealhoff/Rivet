@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rivet", "src\Rivet\Rivet.csproj", "{6F1A9F94-5485-4412-A970-D1A5E2899BAD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rivet.Specs", "specs\Rivet.Specs\Rivet.Specs.csproj", "{1AC9C650-486E-4246-BB9E-5433BC23E5A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F1A9F94-5485-4412-A970-D1A5E2899BAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F1A9F94-5485-4412-A970-D1A5E2899BAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F1A9F94-5485-4412-A970-D1A5E2899BAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F1A9F94-5485-4412-A970-D1A5E2899BAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AC9C650-486E-4246-BB9E-5433BC23E5A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AC9C650-486E-4246-BB9E-5433BC23E5A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AC9C650-486E-4246-BB9E-5433BC23E5A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AC9C650-486E-4246-BB9E-5433BC23E5A3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
